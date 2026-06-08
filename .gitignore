@@ -1,0 +1,25 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*.sqlite
+
+# Virtual environments
+.venv/
+env/
+venv/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+
+# Data & outputs
+data/
+*.parquet
+*.csv
+*.xlsx
+*.zip
+
+# Secrets
+*.env

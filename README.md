@@ -49,7 +49,7 @@ Streaming-BI-Project
 │
 ├── visuals/                  # exported charts from the notebooks
 ├── presentation/
-│   └── final_slides.pptx     # final presentation deck
+│   └── Prime_Video_Final_Presentation.pptx     # final presentation deck
 │
 ├── insights.md               # written insights & strategic recommendation
 └── README.md
